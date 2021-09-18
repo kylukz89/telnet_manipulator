@@ -4,9 +4,9 @@ require_once 'CommandManipulator.php';
 
 $manipuladorComando = new CommandManipulator();
 
-$hostIP = "172.16.160.22";
-$hostUser = "suporte";
-$hostPass = "systemap";
+$hostIP = "200.16.100.100";
+$hostUser = "admin";
+$hostPass = "987654321";
 
 /**
  * $hostIP      = IP do Host destino desejado
